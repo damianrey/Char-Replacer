@@ -1,0 +1,57 @@
+{
+  "credenciais": {
+    "mysql": {
+      "host": "Your host",
+      "port": "3306",
+      "user": "Your user",
+      "password": "",
+      "database": "Your database"
+    },
+    "sqlserver": {
+      "host": "Your host",
+      "server": "Your Server",
+      "port": "1433",
+      "user": "Your user",
+      "password": "",
+      "database": "Your database"
+    }
+  },
+  "caracteres": {
+    "Á": "A",
+    "À": "A",
+    "Ã": "A",
+    "Â": "A",
+    "ã": "a",
+    "à": "a",
+    "â": "a",
+    "á": "a",
+    "É": "E",
+    "È": "E",
+    "Ê": "E",
+    "é": "e",
+    "è": "e",
+    "ê": "e",
+    "Í": "I",
+    "Î": "I",
+    "í": "i",
+    "ì": "i",
+    "î": "i",
+    "Ó": "O",
+    "Ò": "O",
+    "Õ": "O",
+    "Ô": "O",
+    "ó": "o",
+    "õ": "o",
+    "ô": "o",
+    "ò": "o",
+    "Ú": "U",
+    "Ù": "U",
+    "Û": "U",
+    "ú": "u",
+    "ù": "u",
+    "û": "u",
+    "Ç": "C",
+    "ç": "c",
+    "&": "E"
+  }
+}
